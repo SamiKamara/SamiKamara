@@ -5,8 +5,6 @@
 
   ● 🌱 I’m currently learning **SQL, C# and Git**
 
-  ● 📫 How to reach me: **nikkanen.sami@gmail.com**
-
   ● ⚡ What I like to do: **I like to read, play games ...and to code of course**
 
 <h3 align="center">Connect with me:</h3>
