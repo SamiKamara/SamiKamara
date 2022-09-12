@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Sami 👋</h1>
-<h3 align="center">A passionate student of things and stuff from Finland</h3>
+<h3 align="center">A moderately passionate student of things and stuff from Finland</h3>
 
   ● 🔭 I’m currently working on my **SQL and math Courses**
 
