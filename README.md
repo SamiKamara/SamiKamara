@@ -3,7 +3,7 @@
 
   ● 🔭 I’m currently working on my **SQL and math courses**
 
-  ● 🌱 I’m currently learning **SQL, C# and Git**
+  ● 🌱 I’m currently learning **SQL, C# and C++**
 
   ● ⚡ What I like to do: **I like to read, play games ...and to code of course**
 
