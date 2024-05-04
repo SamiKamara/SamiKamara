@@ -21,6 +21,11 @@
   <p>C++ application using Qt. This clipboard tool is designed to streamline user productivity.<br><br></p>
 </div>
 
+<div align="center" style="margin-bottom: 1px;">
+  <h4><a href="https://github.com/SamiKamara/TravelMate" target="_blank" style="color: #0d6efd; text-decoration: none;">TravelMate Repository</a></h4>
+  <p>C# application designed to assist user in finding public transport routes that lead to arrival in desired weather conditions.<br><br></p>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.instagram.com/solarigrafi/">
