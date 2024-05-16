@@ -4,16 +4,16 @@
 <hr>
 
 <p align="center">For an overview of my work, please refer to the following projects.
-<br>Note that most of my repositories are private.<br><br></p>
+<br><br></p>
 
 <div align="center" style="margin-bottom: 1px;">
   <h4><a href="https://store.steampowered.com/app/1900890/Redgar_The_Space_Viking/" target="_blank" style="color: #0d6efd; text-decoration: none;">Redgar: The Space Viking</a></h4>
-  <p>A top-down shooter game published on steam.<br><br></p>
+  <p>A top-down shooter game made with Unity published on Steam and Nintendo Switch.<br><br></p>
 </div>
 
 <div align="center" style="margin-bottom: 1px;">
   <h4><a href="https://assetstore.unity.com/publishers/22159" target="_blank" style="color: #0d6efd; text-decoration: none;">Unity Asset Store Contributions</a></h4>
-  <p>A collection of assets I've developed for the Unity platform.<br><br></p>
+  <p>A collection of commercial assets I've developed for the Unity platform.<br><br></p>
 </div>
 
 <div align="center" style="margin-bottom: 1px;">
@@ -24,6 +24,11 @@
 <div align="center" style="margin-bottom: 1px;">
   <h4><a href="https://github.com/SamiKamara/TravelMate" target="_blank" style="color: #0d6efd; text-decoration: none;">TravelMate Repository</a></h4>
   <p>C# application designed to assist user in finding public transport routes that lead to arrival in desired weather conditions.<br><br></p>
+</div>
+
+<div align="center" style="margin-bottom: 1px;">
+  <h4><a href="https://github.com/SamiKamara/Csannor" target="_blank" style="color: #0d6efd; text-decoration: none;">Csannor Repository</a></h4>
+  <p>Unity/C# mobile application for keeping track of workshifts by scanning QR-codes and sending shift log via email.<br><br></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -45,5 +50,5 @@
   <a href="https://github.com/SamiKamara"><strong>SamiKamara</strong></a>
 </p>
 <p align="center">
-  Last Edited on: 04/01/2024
+  Last Edited on: 16/05/2024
 </p>
