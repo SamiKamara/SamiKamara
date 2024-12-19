@@ -16,7 +16,7 @@
     <a href="https://github.com/SamiKamara/DetailedPasswordEvaluator" target="_blank" style="color: #0d6efd; text-decoration: none;">DetailedPasswordEvaluator: Repository</a> | 
     <a href="https://detailedpasswordevaluator.vercel.app/" target="_blank" style="color: #0d6efd; text-decoration: none;">Live Demo</a>
   </h4>
-  <p>A React-based web application built with Next.js and JavaScript. This tool analyzes and evaluates password strength.<br><br></p>
+  <p>A React-based web application built with Next.js and TypeScript. This tool analyzes and evaluates password strength.<br><br></p>
 </div>
 
 <div align="center" style="margin-bottom: 1px;">
@@ -58,5 +58,5 @@
   <a href="https://github.com/SamiKamara"><strong>SamiKamara</strong></a>
 </p>
 <p align="center">
-  Last Edited on: 17/12/2024
+  Last Edited on: 19/12/2024
 </p>
